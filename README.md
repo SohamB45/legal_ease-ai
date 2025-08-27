@@ -67,7 +67,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/legalease-ai
+git clone https://github.com/SohamB45/legalease-ai
 cd legalease-ai
 ```
 
