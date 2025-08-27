@@ -127,6 +127,8 @@ Find:
 4. Terms that need explanation
 5. Document type
 
+keep response under 2000 charecters.
+
 Focus on: unfair clauses, excessive costs, registration needs, consumer protection violations.`;
 
     const response = await cohere.chat({
