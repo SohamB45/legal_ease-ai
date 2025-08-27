@@ -2,7 +2,7 @@
 
 ##  Hackathon Project: Empowering Indian Communities with AI-Powered Legal Document Analysis
 
-**LegalEase AI** is a comprehensive web application designed to help Indian communities understand complex legal documents through AI-powered analysis. Built specifically for the hackathon with a focus on accessibility and practical legal guidance.
+**LegalEase AI** is a comprehensive web application designed to help Indian communities understand complex legal documents through AI-powered analysis. 
 
 ## 🌟 Key Features
 
