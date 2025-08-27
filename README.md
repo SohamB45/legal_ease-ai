@@ -1,6 +1,6 @@
 # LegalEase AI - Legal Document Analyzer
 
-## 🏆 Hackathon Project: Empowering Indian Communities with AI-Powered Legal Document Analysis
+##  Hackathon Project: Empowering Indian Communities with AI-Powered Legal Document Analysis
 
 **LegalEase AI** is a comprehensive web application designed to help Indian communities understand complex legal documents through AI-powered analysis. Built specifically for the hackathon with a focus on accessibility and practical legal guidance.
 
@@ -146,14 +146,6 @@ Many Indians, especially in low-income communities, struggle to understand compl
 └─────────────────┘    └──────────────────┘    └─────────────────┘
 ```
 
-## 👨‍💻 Developer
 
-**Soham Bhanage**
-- Email: soham.bhanage@gmail.com
-- Hackathon Project: Legal Document Analyzer for Indian Communities
-
-## 📄 License
-
-This project is built for the hackathon and is available for educational and demonstration purposes.
 
 ---
