@@ -280,17 +280,7 @@ export default function Home() {
             </div>
           </div>
           
-{/*           <div className="border-t border-border pt-8 mt-8">
-            <div className="flex flex-col md:flex-row justify-between items-center">
-              <p className="text-sm text-muted-foreground">
-                © 2024 LegalEase AI. Made with ❤️ for Indian communities.
-              </p>
-              <div className="flex items-center space-x-4 mt-4 md:mt-0">
-                <span className="text-sm text-muted-foreground">🇮🇳 Supports Indian Law</span>
-                <span className="text-sm text-muted-foreground">🔒 Privacy Protected</span>
-              </div>
-            </div>
-          </div> */}
+
         </div>
       </footer>
     </div>
