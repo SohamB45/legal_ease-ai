@@ -101,7 +101,7 @@ npm run dev
 5. **Open in browser**
 Navigate to `http://localhost:5000`
 
-## 🎯 Hackathon Impact
+
 
 ### Problem Solved
 Many Indians, especially in low-income communities, struggle to understand complex legal documents, leading to unfair agreements and legal disputes.
