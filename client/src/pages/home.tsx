@@ -280,7 +280,7 @@ export default function Home() {
             </div>
           </div>
           
-          <div className="border-t border-border pt-8 mt-8">
+{/*           <div className="border-t border-border pt-8 mt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-sm text-muted-foreground">
                 © 2024 LegalEase AI. Made with ❤️ for Indian communities.
@@ -290,7 +290,7 @@ export default function Home() {
                 <span className="text-sm text-muted-foreground">🔒 Privacy Protected</span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </footer>
     </div>
